@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The major challenge of creating this app was that at times I had to figure out how to code things on my own without help from the walkthrough. I felt great when I recongized how the activites actually work. 
 
 ## Open-source libraries used
 
