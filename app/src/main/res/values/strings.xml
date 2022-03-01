@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram Clone</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="log_in">log in</string>
+    <string name="welcome_to_my_ig_clone_app">Welcome to my ig clone app!</string>
+    <string name="sign_up">sign up</string>
+    <string name="log_out">Log Out</string>
+</resources>
