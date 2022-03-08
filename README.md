@@ -6,7 +6,7 @@ Time spent: **5** hours spent in total
 
 ## User Stories
 
-# Part 2
+### Part 2
 
 The following **required** functionality is completed:
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 
-# Part 1
+### Part 1
 
 The following **required** functionality is completed:
 
