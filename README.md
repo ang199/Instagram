@@ -6,7 +6,7 @@ Time spent: **5** hours spent in total
 
 ## User Stories
 
-**Part 2**
+# Part 2
 
 The following **required** functionality is completed:
 
@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 - [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 
-**Part 1**
+# Part 1
 
 The following **required** functionality is completed:
 
@@ -24,15 +24,6 @@ The following **required** functionality is completed:
 - [x] The current signed in user is persisted across app restarts.
 - [x] User can take a photo, add a caption, and post it to "Instagram".
 
-The following **optional** features are implemented:
-
-- [ ] User sees app icon in home screen and styled bottom navigation view
-- [ ] Style the feed to look like the real Instagram feed.
-- [ ] After the user submits a new post, show an indeterminate progress bar while the post is being uploaded to Parse.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
