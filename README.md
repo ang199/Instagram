@@ -7,6 +7,7 @@ Time spent: **5** hours spent in total
 ## User Stories
 
 **Part 2**
+
 The following **required** functionality is completed:
 
 - [x] User can view the last 20 posts submitted to "Instagram".
@@ -15,6 +16,7 @@ The following **required** functionality is completed:
 
 
 **Part 1**
+
 The following **required** functionality is completed:
 
 - [x] User can sign up to create a new account using Parse authentication.
