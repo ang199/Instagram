@@ -6,4 +6,6 @@
     <string name="welcome_to_my_ig_clone_app">Welcome to my ig clone app!</string>
     <string name="sign_up">sign up</string>
     <string name="log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
