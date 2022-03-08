@@ -5,14 +5,16 @@
 Time spent: **5** hours spent in total
 
 ## User Stories
-*Part 2*
+
+**Part 2**
 The following **required** functionality is completed:
 
 - [x] User can view the last 20 posts submitted to "Instagram".
 - [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
 - [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
-*Part 1*
+
+**Part 1**
 The following **required** functionality is completed:
 
 - [x] User can sign up to create a new account using Parse authentication.
@@ -34,10 +36,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-*Part 2*
+**Part 2**
+
 <img src='igwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-*Part 1*
+
+**Part 1**
+
 <img src='igwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
