@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 **Part 2**
 
-<img src='igwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='igwalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 **Part 1**
